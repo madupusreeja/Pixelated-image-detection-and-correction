@@ -22,3 +22,12 @@ NOTE: There isn't a universally fixed threshold value for detecting pixelation i
 Bilateral filter is applied to the input image. This filter smooths the image while preserving edges, using parameters like:d,sigmaColor, sigmaSpace
 
 ![image](https://github.com/user-attachments/assets/befa5ce3-b71c-4264-95dc-61198d095c9e)
+Here are the drive links for datasets used in the above code:
+
+original images
+
+https://drive.google.com/drive/folders/1_mdvmEBjBulqE323azVAyWOrI7MF_BZ9?usp=sharing
+
+pixelated images
+
+https://drive.google.com/drive/folders/1Ggavx935Ck4h7Xjy2oYva7ZipZ95Be0q?usp=sharing
